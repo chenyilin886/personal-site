@@ -9,16 +9,16 @@ const projects = [
     github: 'https://github.com/SZPU-RoboMaster-Embedded-Team/Traffic-condition-tesk',
   },
   {
-    title: '底盘',
+    title: '舵轮步兵底盘',
     description: '一款基于 RoboMaster C 型开发板的舵轮步兵底盘，支持多种控制模式，适用于各种机器人竞赛和应用场景。',
     tags: ['C', 'C++'],
-    github: 'https://github.com/henyilin886/HelmswheelKingFirst',
+    github: 'https://github.com/chenyilin886/HelmswheelKingFirst',
   },
   {
-    title: '云台',
-    description: '一款基于 RoboMaster C 型开发板的小型云台，支持俯仰和偏航控制，适用于各种机器人竞赛和应用场景。',
+    title: '全向步兵底盘',
+    description: '一款基于 RoboMaster C 型开发板的全向步兵底盘，支持多种控制模式，适用于各种机器人竞赛和应用场景。',
     tags: ['C'],
-    github: 'https://github.com/henyilin886/DIANJI2',
+    github: 'https://github.com/chenyilin886/OmniWheelA_yes',
   },
 ]
 
